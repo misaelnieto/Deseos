@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deseos</string>
+    <string name="event_date">Octubre 2023</string>
+    <string name="names">Xochitl\n y \nNoe</string>
+    <string name="add_message">Dejanos un mensaje</string>
+    <string name="thanks">¡Muchas Gracias!</string>
+</resources>
