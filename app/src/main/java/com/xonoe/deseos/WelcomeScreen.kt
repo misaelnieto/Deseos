@@ -39,7 +39,7 @@ fun WelcomeScreen(navController: NavHostController) {
         )
         Column {
             Text(
-                text = stringResource(id = R.string.names),
+                text = stringResource(R.string.names),
                 fontSize = 72.sp,
                 textAlign = TextAlign.Center,
                 lineHeight = 72.sp,
@@ -49,7 +49,7 @@ fun WelcomeScreen(navController: NavHostController) {
                     .padding(8.dp)
             )
             Text(
-                text = stringResource(id = R.string.event_date),
+                text = stringResource(R.string.event_date),
                 fontSize = 36.sp,
                 textAlign = TextAlign.Center,
                 lineHeight = 36.sp,
